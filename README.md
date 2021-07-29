@@ -1,4 +1,4 @@
-I am currently studying IT at VŠB Ostrava
+IT student at VŠB Ostrava
 <!---
 - 👋 Hi, I’m @filipjakub
 - 👀 I’m interested in ...
