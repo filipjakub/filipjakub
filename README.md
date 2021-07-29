@@ -1,4 +1,6 @@
+<!---
 IT student at VŠB Ostrava
+--->
 <!---
 - 👋 Hi, I’m @filipjakub
 - 👀 I’m interested in ...
